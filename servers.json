@@ -1,6 +1,10 @@
 {
   "servers": [
     {
+      "name": "idenpa",
+      "address": "https://idenpa.onrender.com"
+    },
+    {
       "name": "SideStore",
       "address": "https://ani.sidestore.io"
     },
